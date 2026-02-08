@@ -33,6 +33,7 @@ Standard PowerPoint export methods often embed plots as raster images (PNG), whi
 
 ## About Gander
 The **`gander` R package** is used to create **simple, readable summaries of a dataset**—especially useful for quick exploratory data analysis (EDA). It helps you “gander” at your data by showing **column types, missing values, unique counts, and basic statistics** in a clean format. It’s handy when you want a fast overview before doing deeper analysis. Overall, it makes data-checking quicker and more structured.
+For further information on gander, check out: https://simonpcouch.github.io/gander/
 
 Example:
 `install.packages("gander")
